@@ -1,1 +1,1 @@
-# 2trimestre-heloise-gimenes
+# 2trimestre projeto relogio-heloise-gimenes
